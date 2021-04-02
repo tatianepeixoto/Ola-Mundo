@@ -1,2 +1,4 @@
-# Ola-Mundo
- primeiro repositorio vesionado
+# Ola,Mundo!
+ Primeiro repositório do curso de Git e GitHub
+
+ Repositório criado durante um curso!
